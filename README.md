@@ -1,1 +1,0 @@
-"# Click and Go GT" 
